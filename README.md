@@ -39,17 +39,18 @@ Here are some tools and technologies I enjoy working with:
 ---
 
 ### 📫 Let’s Connect!
-- [LinkedIn](https://linkedin.com) *(drop yours here!)*
-- [Twitter](https://twitter.com) *(or here)*
-- Email: mcginez.dev@gmail.com *(example)*
+- [LinkedIn](https://www.linkedin.com/in/mcginez) 
+- [Twitter](https://x.com/mc_ggez)
+- ([Twitter](https://discordapp.com/users/elonnmusk.)
+
+  
 
 ---
 
-### 💬 Fun Fact
-I code better with lo-fi beats and coffee ☕.  
+### 💬 Fun Fact  
+I code better with **NCS tracks** blasting and a cold **Coke 🥤** by my side.  
 Let’s build cool things together! 🙌
 
----
 
 > “First, solve the problem. Then, write the code.” – John Johnson
 
