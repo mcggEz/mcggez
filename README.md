@@ -1,15 +1,20 @@
-# 👋 Hello World, I'm MC Ginez!
+# 👋 Hello World!, I'm Mc Ginez
 
-🎓 A Computer Engineering student from **Pamantasan ng Lungsod ng Maynila (PLM)**  
-📍 Based in the heart of **Manila, Philippines 🇵🇭**  
-💻 Passionate about **web development**, **UI design**, and building clean, efficient apps.
+📍 Based in **Manila, Philippines 🇵🇭**  
+
+💻 Passionate about crafting intuitive user experiences through web and mobile development, with a focus on building clean, scalable, and efficient applications.
 
 ---
 
-### 🚀 About Me
-I’m a curious and driven developer who loves to explore the full stack!  
-I enjoy turning ideas into real digital experiences — from responsive front-end designs to dynamic backend systems.  
-When I’m not coding, I’m probably learning something new, binging dev tutorials, or gaming 🎮.
+🚀 About Me
+💡 My Journey in Tech
+My path in technology began at Pamantasan ng Lungsod ng Maynila, where I pursued a 🎓 Bachelor of Science in Computer Engineering. Since then, I’ve been deeply focused on crafting innovative and impactful solutions through code.
+
+🛠️ With hands-on experience in both hardware and software, I've developed a solid foundation in full-stack development. I’m passionate about solving real-world problems, building intuitive user experiences, and creating efficient systems from the ground up.
+
+🌐 I enjoy working across the stack — from responsive, accessible front-end designs to dynamic, data-driven backend architectures.
+
+🎮 Outside of coding, you'll find me exploring new tools, diving into dev tutorials, or gaming to recharge.
 
 ---
 
@@ -24,27 +29,12 @@ Here are some tools and technologies I enjoy working with:
 
 ---
 
-### 🌟 Currently Learning
-- 💡 Spring Boot
-- 🗃️ Database Integration (SQL & NoSQL)
-- 🎯 State Management Tools
-- 🧠 Clean Code & Best Practices
+### 🌐 Connect with me
 
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcginez)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mc_ggez)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/elonnmusk.)
 
-### ✨ Goals
-- 🎓 Graduate and become a solid Full-Stack Engineer
-- 📱 Build open-source apps & tools for the community
-- 🌍 Collaborate on meaningful tech projects
-
----
-
-### 📫 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/in/mcginez) 
-- [Twitter](https://x.com/mc_ggez)
-- [Twitter](https://discordapp.com/users/elonnmusk.)
-
-  
 
 ---
 
@@ -52,7 +42,5 @@ Here are some tools and technologies I enjoy working with:
 I code better with **NCS tracks** blasting and a cold **Coke 🥤** by my side.  
 Let’s build cool things together! 🙌
 
-
-> “First, solve the problem. Then, write the code.” – John Johnson
 
 
