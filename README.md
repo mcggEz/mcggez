@@ -26,9 +26,9 @@ HTML5, CSS3, JavaScript (ES6+)
 🎨 TailwindCSS, Zustand (state management)
 
 📱 Mobile Development
-React Native (and exploring Flutter)
-PostgreSql
-Firebase, Supabase (as BaaS)
+-React Native (and exploring Flutter)
+-PostgreSql
+-Firebase, Supabase (as BaaS)
 
 🖥️ Desktop App Development
 JavaFX (for building rich UI desktop apps)
