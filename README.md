@@ -6,13 +6,13 @@
 
 ---
 
-🚀 About Me
-💡 My Journey in Tech
+🚀 About Me** 
+💡 My Journey in Tech** 
 My path in technology began at <img src="https://upload.wikimedia.org/wikipedia/en/9/95/PLM_Seal_2013.png" width="20" height="20" alt="PLM logo" /> Pamantasan ng Lungsod ng Maynila (PLM), where I pursued a 🎓 Bachelor of Science in Computer Engineering. Since then, I’ve been focused on crafting innovative and impactful solutions through code.
 
-🛠️ With hands-on experience in both hardware and software, I've developed a solid foundation in full-stack development. I’m passionate about solving real-world problems, building intuitive user experiences, and creating efficient systems from the ground up.
+🛠️ With hands-on experience in both hardware and software, I've developed a solid foundation in full-stack development. I’m passionate about solving real-world problems, building intuitive user experiences, and creating efficient systems from the ground up.** 
 
-🌐 I enjoy working across the stack — from responsive, accessible front-end designs to dynamic, data-driven backend architectures.
+🌐 I enjoy working across the stack — from responsive, accessible front-end designs to dynamic, data-driven backend architectures.** 
 
 🎮 Outside of coding, you'll find me exploring new tools, diving into dev tutorials, or gaming to recharge.
 
