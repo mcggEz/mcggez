@@ -18,15 +18,31 @@ My path in technology began at Pamantasan ng Lungsod ng Maynila, where I pursued
 
 ---
 
-### 🛠️ Tech Stack
-Here are some tools and technologies I enjoy working with:
+🌐 Web Development
+HTML5, CSS3, JavaScript (ES6+)
 
-- 🌐 HTML | CSS | JavaScript
-- ⚛️ React | Next.js (12/13/14)
-- 🎨 TailwindCSS | Zustand
-- 🔧 Git | VS Code | Chatgpt
-- Firebase | Supabase | PostgreSql 
+⚛️ React, Next.js (12/13/14)
 
+🎨 TailwindCSS, Zustand (state management)
+
+📱 Mobile Development
+React Native (and exploring Flutter)
+PostgreSql
+Firebase, Supabase (as BaaS)
+
+🖥️ Desktop App Development
+JavaFX (for building rich UI desktop apps)
+
+SQLite (for local data persistence)
+
+🧰 Tools & Platforms
+Git & GitHub
+
+VS Code
+
+ChatGPT, Claude (for ideation, debugging & learning)
+
+Figma (for UI/UX design mockups)
 ---
 
 ### 🌐 Connect with me
