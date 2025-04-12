@@ -19,7 +19,8 @@ Here are some tools and technologies I enjoy working with:
 - 🌐 HTML | CSS | JavaScript
 - ⚛️ React | Next.js (12/13/14)
 - 🎨 TailwindCSS | Zustand
-- 🔧 Git | VS Code | Vite | Supabase
+- 🔧 Git | VS Code | Chatgpt
+- Firebase | Supabase | PostgreSql 
 
 ---
 
@@ -41,7 +42,7 @@ Here are some tools and technologies I enjoy working with:
 ### 📫 Let’s Connect!
 - [LinkedIn](https://www.linkedin.com/in/mcginez) 
 - [Twitter](https://x.com/mc_ggez)
-- ([Twitter](https://discordapp.com/users/elonnmusk.)
+- [Twitter](https://discordapp.com/users/elonnmusk.)
 
   
 
