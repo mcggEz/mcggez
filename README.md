@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+
 
 ### 💡 My Journey in Tech  
 
