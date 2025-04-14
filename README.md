@@ -10,7 +10,7 @@
 
 ### 💡 My Journey in Tech  
 
-My path in information technology began at <a href="https://www.plm.edu.ph/" target="_blank" rel="noopener noreferrer"><strong>Pamantasan ng Lungsod ng Maynila (PLM)</strong></a>, where I pursued a 🎓 *Bachelor of Science in Computer Engineering*. Since then, I’ve been focused on crafting innovative and impactful solutions through code.
+My path in technology began at <a href="https://www.plm.edu.ph/" target="_blank" rel="noopener noreferrer"><strong>Pamantasan ng Lungsod ng Maynila (PLM)</strong></a>, where I pursued a 🎓 *Bachelor of Science in Computer Engineering* degree. Since then, I’ve been eager to get my feet in the door—exploring how to turn ideas into innovative and impactful software solutions.
 
 
 🛠️ With hands-on experience in both hardware and software, I've developed a solid foundation in full-stack development. I enjoy solving real-world problems, building intuitive user experiences, and creating efficient systems from the ground up.  
@@ -45,6 +45,15 @@ Figma (for UI/UX mockups)
 ChatGPT, Claude (for ideation, debugging, & learning)
 
 ---
+
+###💼 My Projects & Experience:
+Purffect Choys Report Management System – Full-stack Developer
+
+Sacramento Library Management System – Full-stack Developer
+
+PLM Campus Navigation App – Full-stack Developer
+
+ 
 
 ## 🌐 Connect with Me
 
