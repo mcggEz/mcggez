@@ -1,6 +1,7 @@
 # 👋 Hello World!, I'm Mc Ginez
 
-📍 Based in **Manila, Philippines 🇵🇭**  
+📍 Based in **Manila, Philippines 🇵🇭** 
+
 💻 Passionate about crafting intuitive user experiences through web and mobile development, with a focus on building clean, scalable, and efficient applications.
 
 ---
@@ -8,7 +9,8 @@
 ## 🚀 About Me
 
 ### 💡 My Journey in Tech  
-My path in technology began at  **Pamantasan ng Lungsod ng Maynila (PLM)**, where I pursued a 🎓 *Bachelor of Science in Computer Engineering*. Since then, I’ve been focused on crafting innovative and impactful solutions through code.
+My path in technology began at [**Pamantasan ng Lungsod ng Maynila (PLM)**](https://www.plm.edu.ph/), where I pursued a 🎓 *Bachelor of Science in Computer Engineering*. Since then, I’ve been focused on crafting innovative and impactful solutions through code.
+
 
 🛠️ With hands-on experience in both hardware and software, I've developed a solid foundation in full-stack development. I enjoy solving real-world problems, building intuitive user experiences, and creating efficient systems from the ground up.  
 
