@@ -11,7 +11,6 @@
 ---
 
 
-
 ### 💡 My Journey in Tech  
 
 My path in technology began at <a href="https://www.plm.edu.ph/" target="_blank" rel="noopener noreferrer"><strong>Pamantasan ng Lungsod ng Maynila (PLM)</strong></a>, where I pursued a 🎓 *Bachelor of Science in Computer Engineering* degree. Since then, I’ve been eager to get my feet in the door—exploring how to turn ideas into innovative and impactful software solutions.
@@ -19,6 +18,14 @@ My path in technology began at <a href="https://www.plm.edu.ph/" target="_blank"
 🌐 I enjoy working across the stack — from responsive, accessible front-end designs to dynamic, data-driven backend architectures.  
 
 🎮 Outside of coding, you'll find me exploring new tools, diving into dev tutorials, or gaming to recharge.
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcginez)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mc_ggez)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/elonnmusk.)
 
 ---
 
@@ -45,7 +52,9 @@ VS Code
 Figma (for UI/UX mockups)  
 ChatGPT, Claude (for ideation, debugging, & learning)
 
+
 ---
+
 
 💼 My Projects:
 
@@ -56,12 +65,6 @@ Sacramento Library Management System – Desktop App Developer
 PLM Campus Navigation App – Full-stack Developer
 
  
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcginez)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mc_ggez)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/elonnmusk.)
 
 ---
 
