@@ -25,14 +25,15 @@ HTML5, CSS3, JavaScript (ES6+)
 React, Next.js (12/13/14)  
 TailwindCSS, Zustand (state management)
 
+
 ### 📱 Mobile Development  
 React Native (and exploring Flutter)  
 Firebase, Supabase  
 PostgreSQL
 
 ### 🖥️ Desktop App Development  
-JavaFX (for building rich UI desktop apps)  
-SQLite (for local data persistence)
+JavaFX 
+SQLite 
 
 ### 🧰 Tools & Platforms  
 Git & GitHub  
