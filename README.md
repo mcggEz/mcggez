@@ -46,7 +46,8 @@ ChatGPT, Claude (for ideation, debugging, & learning)
 
 ---
 
-###💼 My Projects & Experience:
+💼 My Projects & Experience:
+
 Purffect Choys Report Management System – Full-stack Developer
 
 Sacramento Library Management System – Full-stack Developer
