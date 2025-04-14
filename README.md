@@ -1,8 +1,12 @@
 # 👋 Hello World!, I'm Mc Ginez
 
-📍 Based in **Manila, Philippines 🇵🇭** 
 
 💻 I am a goal-driven Software Developer from the Philippines 🇵🇭 with a background in web, mobile, and desktop application development. I have collaborated on various software projects, working closely with teams to build efficient, scalable, and user-centered solutions that address real-world needs and deliver meaningful impact through technology.
+
+📍 Based in Manila, Philippines 🇵🇭**
+
+💻 I'm a Bachelor of Science in Computer Science student at Pamantasan ng Lungsod ng Maynila (PLM).
+
 
 ---
 
