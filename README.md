@@ -2,7 +2,7 @@
 
 📍 Based in **Manila, Philippines 🇵🇭** 
 
-💻 Passionate about crafting intuitive user experiences through web and mobile development, with a focus on building clean, scalable, and efficient applications.
+💻 I am a goal-driven Software Developer from the Philippines 🇵🇭 with a background in web, mobile, and desktop application development. I have collaborated on various software projects, working closely with teams to build efficient, scalable, and user-centered solutions that address real-world needs and deliver meaningful impact through technology.
 
 ---
 
@@ -21,7 +21,7 @@ My path in technology began at <a href="https://www.plm.edu.ph/" target="_blank"
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My preffered tools to work with:
 
 ### 🌐 Web Development  
 HTML5, CSS3, JavaScript (ES6+)  
