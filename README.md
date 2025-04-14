@@ -9,7 +9,8 @@
 ## 🚀 About Me
 
 ### 💡 My Journey in Tech  
-My path in technology began at [**Pamantasan ng Lungsod ng Maynila (PLM)**](https://www.plm.edu.ph/), where I pursued a 🎓 *Bachelor of Science in Computer Engineering*. Since then, I’ve been focused on crafting innovative and impactful solutions through code.
+
+My path in technology began at <a href="https://www.plm.edu.ph/" target="_blank" rel="noopener noreferrer"><strong>Pamantasan ng Lungsod ng Maynila (PLM)</strong></a>, where I pursued a 🎓 *Bachelor of Science in Computer Engineering*. Since then, I’ve been focused on crafting innovative and impactful solutions through code.
 
 
 🛠️ With hands-on experience in both hardware and software, I've developed a solid foundation in full-stack development. I enjoy solving real-world problems, building intuitive user experiences, and creating efficient systems from the ground up.  
