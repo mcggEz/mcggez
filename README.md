@@ -12,9 +12,6 @@
 
 My path in technology began at <a href="https://www.plm.edu.ph/" target="_blank" rel="noopener noreferrer"><strong>Pamantasan ng Lungsod ng Maynila (PLM)</strong></a>, where I pursued a 🎓 *Bachelor of Science in Computer Engineering* degree. Since then, I’ve been eager to get my feet in the door—exploring how to turn ideas into innovative and impactful software solutions.
 
-
-🛠️ With hands-on experience in both hardware and software, I've developed a solid foundation in full-stack development. I enjoy solving real-world problems, building intuitive user experiences, and creating efficient systems from the ground up.  
-
 🌐 I enjoy working across the stack — from responsive, accessible front-end designs to dynamic, data-driven backend architectures.  
 
 🎮 Outside of coding, you'll find me exploring new tools, diving into dev tutorials, or gaming to recharge.
