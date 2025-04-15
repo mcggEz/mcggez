@@ -5,7 +5,7 @@
 
 📍 Based in Manila, Philippines 🇵🇭**
 
-💻 I'm a Bachelor of Science in Computer Science student at Pamantasan ng Lungsod ng Maynila (PLM).
+💻 I'm a Bachelor of Science in Computer Engineering student at Pamantasan ng Lungsod ng Maynila (PLM).
 
 
 ---
