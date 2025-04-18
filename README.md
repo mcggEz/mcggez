@@ -14,6 +14,8 @@
 
 My path in technology began at <a href="https://www.plm.edu.ph/" target="_blank" rel="noopener noreferrer"><strong>Pamantasan ng Lungsod ng Maynila (PLM)</strong></a>, where I pursued a 🎓 *Bachelor of Science in Computer Engineering* degree. Since then, I’ve been eager to get my feet in the door—exploring how to turn ideas into innovative and impactful software solutions.
 
+Throughout my academic journey, I’ve built a strong foundation in software development, working on various projects both as part of my coursework and through voluntary initiatives. I’ve been tasked with developing software solutions as requirements for specific subjects, allowing me to gain hands-on experience in real-world applications. Beyond academics, I’ve also taken on voluntary projects where I contributed my skills to help others and further sharpen my craft. I'm passionate about solving problems, learning continuously, and creating meaningful, user-centered solutions.
+
 🌐 I enjoy working across the stack — from responsive, accessible front-end designs to dynamic, data-driven backend architectures.  
 
 🎮 Outside of coding, you'll find me exploring new tools, diving into dev tutorials, or gaming to recharge.
