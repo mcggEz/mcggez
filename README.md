@@ -32,8 +32,9 @@ Throughout my academic journey, I’ve built a strong foundation in software dev
 ### 🌐 Web Development  
 HTML5, CSS3, JavaScript (ES6+)  
 React, Next.js (12/13/14)  
-TailwindCSS, Zustand (state management)
-
+TailwindCSS
+Zustand (state management)
+Axios
 
 ### 📱 Mobile Development  
 React Native (and exploring Flutter)  
