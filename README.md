@@ -4,8 +4,6 @@
 💻 I am a goal-driven Software Developer with a background in web, mobile, and desktop application development. I have collaborated on various software projects, working closely with teams to build efficient and user-centered solutions that address real-world needs and deliver meaningful impact through technology.
 
 
-- I'm a Bachelor of Science in Computer Engineering student at Pamantasan ng Lungsod ng Maynila (PLM).
-
 
 ---
 
@@ -16,6 +14,7 @@ My path in technology began at <a href="https://www.plm.edu.ph/" target="_blank"
 
 Throughout my academic journey, I’ve built a strong foundation in software development, working on various projects both as part of my coursework and through voluntary initiatives. I’ve been tasked with developing software solutions as requirements for specific subjects, allowing me to gain hands-on experience in real-world applications. Beyond academics, I’ve also taken on voluntary projects where I contributed my skills to help others and further sharpen my craft. 
 
+- I'm a Bachelor of Science in Computer Engineering student at Pamantasan ng Lungsod ng Maynila (PLM).
 
 ---
 
@@ -35,11 +34,16 @@ React, Next.js (12/13/14)
 TailwindCSS
 Zustand (state management)
 Axios
+Shadcn
+
+
 
 ### 📱 Mobile Development  
 React Native (and exploring Flutter)  
 Firebase, Supabase  
 PostgreSQL
+NativeWind
+
 
 ### 🖥️ Desktop App Development  
 JavaFX 
@@ -57,13 +61,11 @@ ChatGPT, Claude (for ideation, debugging, & learning)
 
 💼 My Projects:
 
-Purffect Choys Report Management System – Mobile Developer
+Purffect Choys Report Management System – Full-stack Developer
 
 Sacramento Library Management System – Desktop App Developer
 
-PLM Campus Navigation App – Full-stack Developer
 
- 
 
 ---
 
