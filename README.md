@@ -66,9 +66,3 @@ Purffect Choys Report Management System – Full-stack Developer
 Sacramento Library Management System – Desktop App Developer
 
 
-
----
-
-## 💬 Fun Fact  
-I code better with **NCS tracks** blasting and a cold **Coke 🥤** by my side.  
-Let’s build cool things together! 🙌
