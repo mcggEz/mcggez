@@ -36,6 +36,10 @@ Zustand (state management)
 Axios
 Shadcn
 
+Express
+PHP
+
+
 
 
 ### 📱 Mobile Development  
@@ -64,5 +68,9 @@ ChatGPT, Claude (for ideation, debugging, & learning)
 Purffect Choys Report Management System – Full-stack Developer
 
 Sacramento Library Management System – Desktop App Developer
+
+---
+
+🚀 I’m always looking for opportunities to collaborate on exciting projects and continue expanding my knowledge in the tech industry. Feel free to reach out if you’d like to connect!
 
 
