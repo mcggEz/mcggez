@@ -63,7 +63,7 @@ ChatGPT, Claude (for ideation, debugging, & learning)
 ---
 
 
-💼 My Projects:
+💼 My Projects and Experiences:
 
 Purffect Choys Report Management System – Full-stack Developer
 
