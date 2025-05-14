@@ -11,9 +11,16 @@ I'm pursuing a 🎓 Bachelor of Science in Computer Engineering at Pamantasan ng
 
 I'm always eager to collaborate on exciting projects and expand my knowledge in the tech industry. Whether it's web development, mobile apps, or innovative software solutions, I'm ready to contribute and learn. Feel free to reach out if you'd like to connect or discuss potential collaborations!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mcginez/)
-- 🐦 [Twitter](https://x.com/mc_ggez)
-- 💬 Discord: elonnmusk.
+<p align="left">
+  <a href="https://www.linkedin.com/in/mcginez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/mc_ggez" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
+
+**Discord:** `elonnmusk.`
 
 
 ## 🛠️ Tech Stack & Skills
