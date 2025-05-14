@@ -27,7 +27,7 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
 - **Frameworks & Runtime:**
   - PHP (Laravel)
   - Node.js (Express.js)
-  - RESTful APIs
+
 
 ### Database & State Management
 - **Databases:**
@@ -45,7 +45,7 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
   - Flutter (Learning)
 - **Tools:**
   - Expo
-  - Native APIs
+
 
 ### Desktop Development
 - **Technologies:**
