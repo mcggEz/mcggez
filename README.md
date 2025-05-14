@@ -1,76 +1,81 @@
 # 👋 Hello World!, I'm Mc Ginez
 
+💻 I am a Software Developer with a background in web, mobile, and desktop application development. I have collaborated on various software projects, working closely with teams to build efficient and user-centered solutions that address real-world needs and deliver meaningful impact through technology.
 
-💻 I am a goal-driven Software Developer with a background in web, mobile, and desktop application development. I have collaborated on various software projects, working closely with teams to build efficient and user-centered solutions that address real-world needs and deliver meaningful impact through technology.
+## 💡 My Journey in Tech
 
-
-
----
-
-
-### 💡 My Journey in Tech  
-
-My path in technology began at <a href="https://www.plm.edu.ph/" target="_blank" rel="noopener noreferrer"><strong>Pamantasan ng Lungsod ng Maynila (PLM)</strong></a>, where I pursued a 🎓 *Bachelor of Science in Computer Engineering* degree. Since then, I’ve been eager to get my feet in the door—exploring how to turn ideas into innovative and impactful software solutions.
-
-Throughout my academic journey, I’ve built a strong foundation in software development, working on various projects both as part of my coursework and through voluntary initiatives. I’ve been tasked with developing software solutions as requirements for specific subjects, allowing me to gain hands-on experience in real-world applications. Beyond academics, I’ve also taken on voluntary projects where I contributed my skills to help others and further sharpen my craft. 
-
-- I'm a Bachelor of Science in Computer Engineering student at Pamantasan ng Lungsod ng Maynila (PLM).
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcginez)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mc_ggez)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/elonnmusk.)
-
----
-
-## 🛠️ My preffered tools to work with:
-
-### 🌐 Web Development  
-HTML5, CSS3, JavaScript (ES6+)  
-React, Next.js (12/13/14)  
-TailwindCSS
-Zustand (state management)
-Axios
-Shadcn
-
-Express
-PHP
+I'm pursuing a 🎓 Bachelor of Science in Computer Engineering at Pamantasan ng Lungsod ng Maynila (PLM). My journey in technology has been marked by hands-on experience in developing software solutions, both through academic projects and voluntary initiatives. This diverse exposure has helped me build a strong foundation in creating impactful applications across different platforms.
 
 
+## 🌐 Let's Connect!
+I'm always eager to collaborate on exciting projects and expand my knowledge in the tech industry. Whether it's web development, mobile apps, or innovative software solutions, I'm ready to contribute and learn. Feel free to reach out if you'd like to connect or discuss potential collaborations!
 
+- [LinkedIn](Your LinkedIn URL)
+- [Twitter](Your Twitter URL)
+- [Discord](Your Discord handle)
 
-### 📱 Mobile Development  
-React Native (and exploring Flutter)  
-Firebase, Supabase  
-PostgreSQL
-NativeWind
+## 🛠️ Tech Stack & Skills
 
+### Website Frontend Development
+- **Core Technologies:**
+  - HTML5, CSS3, JavaScript (ES6+)
+  - React.js, Next.js (12/13/14)
+  - TailwindCSS, NativeWind
+  - Shadcn/UI Components
 
-### 🖥️ Desktop App Development  
-JavaFX 
-SQLite 
+### Backend Development
+- **Frameworks & Runtime:**
+  - PHP (Laravel)
+  - Node.js (Express.js)
+  - RESTful APIs
 
-### 🧰 Tools & Platforms  
-Git & GitHub  
-VS Code  
-Figma (for UI/UX mockups)  
-ChatGPT, Claude (for ideation, debugging, & learning)
+### Database & State Management
+- **Databases:**
+  - PostgreSQL
+  - SQLite
+  - Firebase
+  - Supabase
+- **State Management:**
+  - Zustand
+  - Context API
 
+### Mobile Development
+- **Cross-platform:**
+  - React Native
+  - Flutter (Learning)
+- **Tools:**
+  - Expo
+  - Native APIs
 
----
+### Desktop Development
+- **Technologies:**
+  - JavaFX
+  - SQLite Integration
 
+### Development Tools & Platforms
+- **Version Control:**
+  - Git
+  - GitHub
+- **IDE & Design:**
+  - Cursor
+  - VS Code
+  - Figma (UI/UX Design)
+- **AI Assistance:**
+  - ChatGPT
+  - Claude
+  - GitHub Copilot
 
-💼 My Projects and Experiences:
+## 💼 Featured Projects
 
-Purffect Choys Report Management System – Full-stack Developer
+### Purffect Choys Report Management System
+**Role: Full-stack Developer**
+- Developed a report management solution for a physical store
+- Implemented using modern web technologies
+- Focus on user experience and efficiency
 
-Sacramento Library Management System – Desktop App Developer
-
----
-
-🚀 I’m always looking for opportunities to collaborate on exciting projects and continue expanding my knowledge in the tech industry. Feel free to reach out if you’d like to connect!
-
+### Sacramento Library Management System
+**Role: Desktop App Developer**
+- Created a  library management application
+- Built with JavaFX and SQLite
+- Emphasis on data integrity and performance
 
