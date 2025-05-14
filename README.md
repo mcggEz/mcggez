@@ -18,9 +18,11 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
   <a href="https://x.com/mc_ggez" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
+  <a href="https://discordapp.com/users/elonnmusk." target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </p>
 
-**Discord:** `elonnmusk.`
 
 
 ## 🛠️ Tech Stack & Skills
