@@ -31,7 +31,7 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
 - **Core Technologies:**
   - HTML5, CSS3, JavaScript (ES6+)
   - React.js, Next.js (12/13/14)
-  - TailwindCSS, NativeWind
+  - TailwindCSS
   - Shadcn/UI Components
 
 ### Backend Development
@@ -53,6 +53,7 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
 ### Mobile Development
 - **Cross-platform:**
   - React Native
+  - Nativewind
   - Flutter (Learning)
 - **Tools:**
   - Expo
