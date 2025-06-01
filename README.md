@@ -63,6 +63,7 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
 - **Technologies:**
   - JavaFX
   - SQLite Integration
+  - Electron JS
 
 ### Development Tools & Platforms
 - **Version Control:**
