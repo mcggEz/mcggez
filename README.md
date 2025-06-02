@@ -62,7 +62,7 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
 ### Desktop Development
 - **Technologies:**
   - JavaFX
-  - SQLite Integration
+  - SQLite 
   - Electron JS
 
 ### Development Tools & Platforms
