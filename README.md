@@ -14,7 +14,7 @@ I'm pursuing a 🎓 Bachelor of Science in Computer Engineering at Pamantasan ng
 
 ## 🌐 Let's Connect!
 
-I'm always eager to collaborate on exciting projects and expand my knowledge in the tech industry. Whether it's web development, mobile apps, or innovative software solutions, I'm ready to contribute and learn. Feel free to reach out if you'd like to connect or discuss potential collaborations!
+I'm always eager to collaborate on exciting projects and expand my knowledge in the tech industry.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mcginez/" target="_blank">
