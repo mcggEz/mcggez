@@ -2,7 +2,7 @@
 
 💻 I am a Software Developer with a background in web, mobile, and desktop application development. I have collaborated on various software projects, working closely with teams to build efficient and user-centered solutions that address real-world needs and deliver meaningful impact through technology.
 
-[![Resume](https://img.shields.io/badge/Views@20&My@20%My@20%Resume-blue)](https://docs.google.com/document/d/13Dm_cSG3F2RvN-22yBlu8wFPp0fDlK4elHTCMSlm0Z0/edit?tab=t.0)
+[![Resume](https://img.shields.io/badge/View%20My%20Resume-blue)](https://docs.google.com/document/d/13Dm_cSG3F2RvN-22yBlu8wFPp0fDlK4elHTCMSlm0Z0/edit?tab=t.0)
 
 ## 💡 My Journey in Tech
 
