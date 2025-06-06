@@ -34,9 +34,9 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
   - Shadcn/UI Components
 
 ### Backend Development
-- **Frameworks & Runtime:**
-  - PHP (Laravel)
-  - Node.js (Express.js)
+- **Frameworks**
+  - Laravel (php)
+  - Express (typescript)
 
 
 ### Database & State Management
@@ -53,10 +53,6 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
 - **Cross-platform:**
   - React Native
   - Nativewind
-  - Flutter (Learning)
-- **Tools:**
-  - Expo
-
 
 ### Desktop Development
 - **Technologies:**
