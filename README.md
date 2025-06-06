@@ -1,16 +1,10 @@
 # 👋 Hello World!, I'm Mc Ginez
 
-💻 I am a Computer Engineering Student with a background in web, mobile, and desktop application development. I have collaborated on various software projects, working closely with teams to build efficient and user-centered solutions that address real-world needs and deliver meaningful impact through technology.
+💻 I am a Computer Engineering Student at Pamantasan ng Lungsod ng Maynila with a background in web, mobile, and desktop application development. I have collaborated on various software projects, working closely with teams to build efficient and user-centered solutions that address real-world needs and deliver meaningful impact through technology.
 
 <a href="https://docs.google.com/document/d/13Dm_cSG3F2RvN-22yBlu8wFPp0fDlK4elHTCMSlm0Z0/edit?tab=t.0" target="_blank">
   <img src="https://img.shields.io/badge/View%20My%20Resume-yellow?style=for-the-badge" alt="Resume"/>
 </a>
-
-
-## 💡 My Journey in Tech
-
-I'm pursuing a 🎓 Bachelor of Science in Computer Engineering at Pamantasan ng Lungsod ng Maynila (PLM). My journey in technology has been marked by hands-on experience in developing software solutions, both through academic projects and voluntary initiatives. This diverse exposure has helped me build a strong foundation in creating impactful applications across different platforms.
-
 
 ## 🌐 Let's Connect!
 
