@@ -72,17 +72,3 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
   - Claude
   - GitHub Copilot
 
-## 💼 Featured Projects
-
-### Purffect Choys Report Management System
-**Role: Full-stack Developer**
-- Developed a report management solution for a physical store
-- Implemented using modern web technologies
-- Focus on user experience and efficiency
-
-### Sacramento Library Management System
-**Role: Desktop App Developer**
-- Created a  library management application
-- Built with JavaFX and SQLite
-- Emphasis on data integrity and performance
-
