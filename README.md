@@ -8,7 +8,7 @@ A Computer Engineering student at **[Pamantasan ng Lungsod ng Maynila](https://p
 
 ---
 
-# 🌐 Let's Connect!
+## 🌐 Let's Connect!
 
 I'm always eager to collaborate on exciting projects and expand my knowledge in the tech industry.
 
