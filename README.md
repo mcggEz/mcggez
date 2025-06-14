@@ -89,6 +89,56 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
 ## 🛠️ Tech Stack & Skills
 
 ### Website Frontend Development
+<div align="left">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logoColor=white"/> </div>
+
+### Backend Development
+<div align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</div>
+
+### Database & State Management
+<div align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-242424?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+</div>
+
+### Mobile Development
+<div align="left">
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nativewind-07405E?style=for-the-badge&logo=tailwindcss&logoColor=white"/> </div>
+
+### Desktop Development
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
+</div>
+
+### Development Tools & Platforms
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-4285F4?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</div>
+
+### AI Assistance
+<div align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-F24E1E?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Copilot-6CC644?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+
+## 🛠️ Tech Stack & Skills
+
+### Website Frontend Development
 - **Core Technologies:**
   - React.js, Next.js (12/13/14)
   - TailwindCSS
