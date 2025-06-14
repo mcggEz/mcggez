@@ -45,7 +45,6 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
   <img src="https://img.shields.io/badge/Zustand-242424?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
 ### Backend
