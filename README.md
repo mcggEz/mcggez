@@ -55,6 +55,7 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
 ---
 
 ## 🌐 Web Development
+### Frontend Development
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -69,7 +70,6 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
 <div align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
 ---
