@@ -8,7 +8,7 @@ A Computer Engineering student at **[Pamantasan ng Lungsod ng Maynila](https://p
 
 ---
 
-## 🌐 Let's Connect!
+# 🌐 Let's Connect!
 
 I'm always eager to collaborate on exciting projects and expand my knowledge in the tech industry.
 
@@ -76,7 +76,7 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
 
 <div align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </div>
 
 ---
@@ -111,4 +111,14 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
 ### AI Assistance
 <div align="left">
   <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="
+  <img src="https://img.shields.io/badge/Claude-F24E1E?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-6CC644?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcggEz&theme=tokyonight&hide_border=true" />
+</div>
