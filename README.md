@@ -101,17 +101,11 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-4285F4?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-black?style=for-the-badge&logoColor=white" alt="Cursor IDE Badge"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
-### AI Assistance
-<div align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-F24E1E?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-6CC644?style=for-the-badge&logo=github&logoColor=white"/>
-</div>
 
 ---
 
