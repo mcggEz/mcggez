@@ -22,12 +22,6 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
   </a>
 </p>
 
-<h1 align="center">🚀 My Fave Tech Stack</h1>
-
-<p align="center">A showcase of my favorite tools and technologies across AI, Web Development, DevOps, and more.</p>
-
----
-
 ## 🧠 Core Skills & Languages
 
 <div align="center">
