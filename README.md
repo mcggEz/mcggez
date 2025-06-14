@@ -78,6 +78,14 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
 
 ---
 
+### AI Assistance
+<div align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-F24E1E?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Copilot-6CC644?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -130,57 +138,7 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
-### AI Assistance
-<div align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-F24E1E?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Copilot-6CC644?style=for-the-badge&logo=github&logoColor=white"/>
-</div>
-
-## 🛠️ Tech Stack & Skills
-
-### Website Frontend Development
-- **Core Technologies:**
-  - React.js, Next.js (12/13/14)
-  - TailwindCSS
-  - Shadcn/UI Components
-
-### Backend Development
-- **Frameworks**
-  - Laravel (php)
-  - Express (typescript)
 
 
-### Database & State Management
-- **Databases:**
-  - PostgreSQL
-  - SQLite
-  - Firebase
-  - Supabase
-- **State Management:**
-  - Zustand
-  - Context API
 
-### Mobile Development
-- **Cross-platform:**
-  - React Native
-  - Nativewind
-
-### Desktop Development
-- **Technologies:**
-  - JavaFX
-  - SQLite 
-  - Electron JS
-
-### Development Tools & Platforms
-- **Version Control:**
-  - Git
-  - GitHub
-- **IDE & Design:**
-  - Cursor
-  - VS Code
-  - Figma (UI/UX Design)
-- **AI Assistance:**
-  - ChatGPT
-  - Claude
-  - GitHub Copilot
 
