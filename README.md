@@ -93,11 +93,6 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mcggEz&theme=onedark&margin-w=15&no-bg=true&no-frame=true"/>
-</div>
-
-
 ## 🛠️ Tech Stack & Skills
 
 ### Website Frontend Development
