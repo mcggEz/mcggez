@@ -45,6 +45,7 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
   <img src="https://img.shields.io/badge/Zustand-242424?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
 ### Backend
@@ -75,7 +76,7 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
 
 <div align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </div>
 
 ---
@@ -110,14 +111,4 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
 ### AI Assistance
 <div align="left">
   <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-F24E1E?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-6CC644?style=for-the-badge&logo=github&logoColor=white"/>
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcggEz&theme=tokyonight&hide_border=true" />
-</div>
+  <img src="
