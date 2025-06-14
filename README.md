@@ -109,7 +109,6 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
 ---
 ### Desktop Development
 <div align="left">
-  <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
 </div>
 ---
@@ -117,7 +116,8 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
 ### AI Assistance
 <div align="left">
   <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-F24E1E?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Copilot-6CC644?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-F24E1E?style=for-the-badge&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-6CC644?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
 ---
