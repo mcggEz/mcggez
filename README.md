@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1-VPR9_XhRqMZfBIodDcABeMO19FTgyoE" width="500" alt="Banner"/>
+</p>
+
 # 👋 Hello World! I'm Mc Ginez
 
 A Computer Engineering student at **[Pamantasan ng Lungsod ng Maynila](https://plm.edu.ph/)** with expertise in web, mobile, and desktop application development. I excel in collaborative software projects, building efficient, user-centered solutions that address real-world needs and deliver meaningful technological impact.
