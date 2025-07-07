@@ -92,6 +92,7 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
+   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
 
 </div>
 
@@ -106,7 +107,6 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
   <img src="https://img.shields.io/badge/Cursor-black?style=for-the-badge&logoColor=white" alt="Cursor IDE Badge"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
 </div>
 
 
