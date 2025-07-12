@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Mc Ginez
 
-A Computer Engineering student at **[Pamantasan ng Lungsod ng Maynila](https://plm.edu.ph/)** with expertise in web, mobile, and desktop application development. I excel in collaborative software projects, building efficient, user-centered solutions that address real-world needs and deliver meaningful technological impact.
+A Computer Engineering student at **[Pamantasan ng Lungsod ng Maynila](https://plm.edu.ph/)** with expertise in software development. I excel in collaborative software projects, building efficient, user-centered solutions that address real-world needs and deliver meaningful technological impact.
 
 <a href="https://docs.google.com/document/d/13Dm_cSG3F2RvN-22yBlu8wFPp0fDlK4elHTCMSlm0Z0/edit?tab=t.0" target="_blank">
   <img src="https://img.shields.io/badge/View%20My%20CV-yellow?style=for-the-badge" alt="CV"/>
