@@ -59,9 +59,18 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
 
 ### Mobile
 <div align="left">
+  <!-- React Native -->
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <!-- NativeWind -->
   <img src="https://img.shields.io/badge/Nativewind-07405E?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <!-- React Native State Management (Zustand example) -->
+  <img src="https://img.shields.io/badge/Zustand-FFAD33?style=for-the-badge&logo=react&logoColor=white"/>
+  <!-- Flutter -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <!-- Flutter State Management (Riverpod example) -->
+  <img src="https://img.shields.io/badge/Riverpod-42A5F5?style=for-the-badge&logo=dart&logoColor=white"/>
 </div>
+
 
 ### Desktop
 <div align="left">
