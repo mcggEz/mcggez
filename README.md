@@ -22,6 +22,9 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
   <a href="https://discordapp.com/users/elonnmusk." target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+  <a href="https://huggingface.co/mcggEz" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFAE00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
+  </a>
 </p>
 
 ---
